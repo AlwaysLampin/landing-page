@@ -165,7 +165,42 @@ body {
     padding-right: 60px;
 }
 
+.container-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+}
 
+.container-4-sub {
+    background-color: #3882f6;
+    width: 1000px;
+    height: 120px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+}
+
+.button-2 {
+    border: 2px solid white;
+    padding: 5px 30px;
+    border-radius: 8px;
+}
+
+.cta-heading {
+    font-size: 24px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    color: #F9FAF8;
+    margin-bottom: 5px;
+}
+
+.cta-text {
+    font-size: 14px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    color: #F9FAF8
+}
 
 
 
