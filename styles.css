@@ -202,7 +202,32 @@ body {
     color: #F9FAF8
 }
 
+.container-5 {
+    display: flex;
+    background-color: #1F2937;
+    align-self: stretch;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
 
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.footer-text {
+    font-size: 18px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    color: #F9FAF8;
+}
+
+.github-image {
+    height: 45px;
+    width: 45px;
+}
 
 ul {
     list-style: none;
