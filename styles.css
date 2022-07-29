@@ -81,10 +81,18 @@ body {
   font-family: Roboto, Arial, Helvetica, sans-serif;
 }
 
-img {
+.img-0 {
     width: 500px;
     height: auto;
 }
+
+.information img {
+    width: 200px;
+    height: 150px;
+}
+
+
+
 
 ul {
     list-style: none;
@@ -100,3 +108,4 @@ a {
     font-family: Roboto, Arial, Helvetica, sans-serif;
     font-size: 18px;
 }
+
