@@ -5,4 +5,4 @@ Demonstrated Skills:
 * HTML
 * CSS (Flexbox)
 
-Live Demo: https://alwayslampin.github.io/landing-page/
+Live Demo: https://cobaltjester.github.io/landing-page/
